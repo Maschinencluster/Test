@@ -7,4 +7,3 @@ Klicke auf: Open Existing Diagram
 
 Klicke auf: Authorize
 
-Gebe folgende Zugangsdaten ein und bestätige: Username: Maschinencluster / Password: BIM_Maschinencluster
